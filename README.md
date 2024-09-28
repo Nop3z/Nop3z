@@ -1,16 +1,14 @@
-## Hi there 👋
+<div id="title" align=center>
 
-<!--
-**Nop3z/Nop3z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Modern C++ template][github-sub-title:img]
 
-Here are some ideas to get you started:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nop3z&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+</div>
+
+![头像](image/头像.jpg)
+
+![Visitor Count](https://profile-counter.glitch.me/Nop3z/count.svg)
+
+[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Nop3z.
