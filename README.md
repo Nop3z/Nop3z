@@ -30,6 +30,10 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nop3z/Nop3z/output/github-contribution-grid-snake.svg">
 </picture>
 
-
-
-
+# 友链
+--------------------------
+<div style="border-radius: 50%; overflow: hidden;">
+  <a href="https://buutt3rf1y.github.io/" target="_blank">
+    <img src="https://img.dkdun.cn/v1/2024/12/5e1c86b5a116571a.jpg" alt="Friend's Blog" width="200" height="200">
+  </a>
+</div>
