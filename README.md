@@ -32,7 +32,7 @@
       </a>
     </td>
     <td style="width: 14.28%; text-align: center;">
-      <a href="baozongwi.xyz" target="_blank">
+      <a href="http://baozongwi.xyz" target="_blank">
         <img src="./image/597622e4231ebddab27a452a6df01ba.jpg" alt="Friend's Blog" width="100" height="100">
       </a>
     </td>
@@ -47,34 +47,34 @@
       </a>
     </td>
     <td style="width: 14.28%; text-align: center;">
-      <a href="www.7ntsec.cn" target="_blank">
+      <a href="http://www.7ntsec.cn" target="_blank">
         <img src="./image/6e1a2af23cbcdc0f02c2e5cbd938a27.jpg" alt="Friend's Blog" width="100" height="100">
       </a>
     </td>
     <td style="width: 14.28%; text-align: center;">
-      <a href="1cfh.fun" target="_blank">
+      <a href="http://1cfh.fun" target="_blank">
         <img src="./image/6137d83ecd1ff0373968cb58c38bea1.jpg" alt="Friend's Blog" width="100" height="100">
       </a>
     </td>
     <td style="width: 14.28%; text-align: center;">
-      <a href="cnblogs.com/9man" target="_blank">
+      <a href="http://cnblogs.com/9man" target="_blank">
         <img src="./image/9950272f6e04b7a5236f713d3f222fd.jpg" alt="Friend's Blog" width="100" height="100">
       </a>
     </td>
   </tr>
   <tr>
     <td style="width: 14.28%; text-align: center;">
-      <a href="www.su-cvestone.cn" target="_blank">
+      <a href="http://www.su-cvestone.cn" target="_blank">
         <img src="./image/005815c463081016f8851aded067d14.jpg" alt="Friend's Blog" width="100" height="100">
       </a>
     </td>
     <td style="width: 14.28%; text-align: center;">
-      <a href="ba1100n.tech" target="_blank">
+      <a href="http://ba1100n.tech" target="_blank">
         <img src="./image/d635549b99c4240f7a7b4a93831c48b.jpg" alt="Friend's Blog" width="100" height="100">
       </a>
     </td>
     <td style="width: 14.28%; text-align: center;">
-      <a href="p1yang.github.io" target="_blank">
+      <a href="http://p1yang.github.io" target="_blank">
         <img src="./image/ae5107789df7b1727bc2680cb7cf7eb.jpg" alt="Friend's Blog" width="100" height="100">
       </a>
     </td>
