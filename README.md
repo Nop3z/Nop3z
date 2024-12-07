@@ -7,7 +7,7 @@
 
 </div>
 
-![Visitor Count](https://profile-counter.glitch.me/Nop3z/count.svg)
+![](https://count.getloli.com/get/@Nop3z?theme=rule34)
 
 
 
@@ -20,7 +20,7 @@
 </picture>
 
 
-# 友链(欢迎各位师傅互换友链)
+# 友链(欢迎各位师傅互换友链 )
 --------------------------
 
 
