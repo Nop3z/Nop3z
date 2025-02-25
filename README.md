@@ -93,7 +93,11 @@
         <img src="./image/2d0bd21357522278346698c817b2462.jpg" alt="Friend's Blog" width="100" height="100">
       </a>
     </td>
-    <!-- 添加更多的博客链接 -->
+    <td style="width: 14.28%; text-align: center;">
+      <a href="https://tw11ty.github.io/" target="_blank">
+        <img src="./image/4676fa3ea159f2ceb2ff0ff838eb57a.png" alt="Friend's Blog" width="100" height="100">
+      </a>
+    </td>
   </tr>
 </table>
 
